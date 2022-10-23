@@ -1,0 +1,25 @@
+.name_of_objects, #result_object_name, #result_object_accuracy  {
+    color:coral;
+}
+
+body {
+    color:black;
+    background-color: lightskyblue;
+}
+
+#camera {
+    width: 350px;
+    height:300px;
+    border:2px dashed black;
+}
+
+#result {
+    width: 350px;
+    height:300px;
+    border:2px dashed black;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
